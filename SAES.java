@@ -1,3 +1,12 @@
+/*
+Programming Problem 6.14 -
+
+Simplified AES implementation
+16 bit plain text and 16 bit key preferred
+*/
+
+
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
